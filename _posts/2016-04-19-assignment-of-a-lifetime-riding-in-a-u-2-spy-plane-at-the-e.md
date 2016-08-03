@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-08-03T15:01:21.900Z'
+datePublished: '2016-08-03T15:13:42.552Z'
 sourcePath: >-
   _posts/2016-04-19-assignment-of-a-lifetime-riding-in-a-u-2-spy-plane-at-the-e.md
 inFeed: true
-isBasedOnUrl: >-
-  http://petapixel.com/2015/05/24/assignment-of-a-lifetime-riding-in-a-u-2-spy-plane-at-the-edge-of-space/
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - michel
   - plane
@@ -22,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-03T15:01:21.510Z'
+dateModified: '2016-08-03T15:13:41.955Z'
 title: 'Assignment of a Lifetime: Riding in a U-2 Spy Plane at the Edge of Space'
 app_links: []
 publisher:
@@ -40,6 +38,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: assignment-of-a-lifetime-riding-in-a-u-2-spy-plane-at-the-e/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
