@@ -12,3 +12,7 @@ color:
     - '#3498DB'
     - '#2980B9'
 name: Si Conecta
+navigation:
+  - name: 'Assignment of a Lifetime: Riding in a U-2 Spy Plane at the Edge of Space'
+    id: 85e8ff38-b3f0-4b95-aca3-dae81d26a689
+    type: content
