@@ -1,18 +1,30 @@
-layout_spectrum: 0.022164158755913377
-typography_spectrum: 0.7002327516674995
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5816231
 color:
-  brandStrength: 0.07781890593469143
-  lightness: 0.008963575819507241
   saturation: 0.5144877268467098
-  rhythmicContrast: 0.08751547173596919
+  brandStrength: 0.0494403
+  lightness: 0.008963575819507241
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-name: Si Conecta
+  rhythmicContrast: 0.08751547173596919
 navigation:
   - name: 'Assignment of a Lifetime: Riding in a U-2 Spy Plane at the Edge of Space'
     id: 85e8ff38-b3f0-4b95-aca3-dae81d26a689
     type: content
+layout_spectrum: 0
+name: Si Conecta
