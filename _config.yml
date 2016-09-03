@@ -1,16 +1,16 @@
-typography_spectrum: 0.4416977
+layout_spectrum: 0.8543708673678339
+typography_spectrum: 0.5611657667905092
 color:
-  saturation: 0.8824627
-  brandStrength: 0.0494403
-  lightness: 0.7220149
+  saturation: 0.05063163605518639
+  brandStrength: 0.8998458164278418
+  lightness: 0.29318081494420767
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  rhythmicContrast: 0.6389925
-layout_spectrum: 0.8871269
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+  rhythmicContrast: 0.9154477471020073
 name: Si Conecta
 navigation:
   - name: The Best
