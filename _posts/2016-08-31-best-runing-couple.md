@@ -1,11 +1,11 @@
 ---
-dateModified: '2016-08-31T23:51:52.547Z'
+dateModified: '2016-08-31T23:55:00.184Z'
 author: []
 via: {}
 title: Best runing couple
 publisher: {}
 description: ''
-datePublished: '2016-08-31T23:51:53.196Z'
+datePublished: '2016-08-31T23:55:00.866Z'
 sourcePath: _posts/2016-08-31-best-runing-couple.md
 hasPage: true
 starred: false
