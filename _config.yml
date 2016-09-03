@@ -22,6 +22,9 @@ navigation:
   - name: Work  or Fun ??
     id: b115423b-0843-4208-bae3-e3e3ccc00c7b
     type: content
+  - name: Best runing couple
+    id: 825b4a7d-9dc9-44af-8dd9-0e52b07ecc58
+    type: content
 collections:
   - index:
       path: /
