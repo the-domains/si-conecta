@@ -1,3 +1,21 @@
+typography_spectrum: 0.4416977
+color:
+  saturation: 0.8824627
+  brandStrength: 0.0494403
+  lightness: 0.7220149
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 0.6389925
+layout_spectrum: 0.8871269
+name: Si Conecta
+navigation:
+  - name: 'Best Running Couple, ever '
+    id: 85e8ff38-b3f0-4b95-aca3-dae81d26a689
+    type: content
 collections:
   - index:
       path: /
@@ -10,21 +28,3 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.8824627
-  brandStrength: 0.0494403
-  lightness: 0.7220149
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  rhythmicContrast: 0.6389925
-typography_spectrum: 0.4416977
-navigation:
-  - name: 'Assignment of a Lifetime: Riding in a U-2 Spy Plane at the Edge of Space'
-    id: 85e8ff38-b3f0-4b95-aca3-dae81d26a689
-    type: content
-layout_spectrum: 0.8871269
-name: Si Conecta
