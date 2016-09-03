@@ -16,6 +16,9 @@ navigation:
   - name: 'Best Running Couple, ever '
     id: 85e8ff38-b3f0-4b95-aca3-dae81d26a689
     type: content
+  - name: Best runing couple
+    id: 825b4a7d-9dc9-44af-8dd9-0e52b07ecc58
+    type: content
 collections:
   - index:
       path: /
