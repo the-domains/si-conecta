@@ -12,6 +12,10 @@ color:
   rhythmicContrast: 0.6389925
 layout_spectrum: 0.8871269
 name: Si Conecta
+navigation:
+  - name: The Best
+    id: 4748c749-4ab6-4a32-a7f6-e58f12b6844a
+    type: content
 collections:
   - index:
       path: /
