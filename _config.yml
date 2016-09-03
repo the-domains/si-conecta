@@ -12,10 +12,6 @@ color:
   rhythmicContrast: 0.6389925
 layout_spectrum: 0.8871269
 name: Si Conecta
-navigation:
-  - name: Best runing couple
-    id: 825b4a7d-9dc9-44af-8dd9-0e52b07ecc58
-    type: content
 collections:
   - index:
       path: /
