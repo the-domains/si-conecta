@@ -19,6 +19,9 @@ navigation:
   - name: Beautiful!
     id: ee62813b-8065-41aa-a56f-9049f52a68b3
     type: content
+  - name: Work  or Fun ??
+    id: b115423b-0843-4208-bae3-e3e3ccc00c7b
+    type: content
 collections:
   - index:
       path: /
