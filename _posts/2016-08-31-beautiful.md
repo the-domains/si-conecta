@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-31T23:53:51.117Z'
+datePublished: '2016-08-31T23:54:45.695Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T23:48:46.886Z'
+dateModified: '2016-08-31T23:54:45.043Z'
 title: Beautiful!
 publisher: {}
 description: Como hacer un sitio web facil  y rapido usando IA
-starred: false
 sourcePath: _posts/2016-08-31-beautiful.md
-_type: Blurb
+hasPage: true
+starred: false
+url: beautiful/index.html
+_type: Article
 
 ---
 # Beautiful!
